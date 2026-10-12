@@ -1,4 +1,4 @@
-LINK DEMO : https://webtopuplivestriming.ai.studio/
+LINK DEMO : https://topuplivestriming.vercel.app/
 
 Untuk versi lebih lengkap dan stabil 
 silahkan chat di
